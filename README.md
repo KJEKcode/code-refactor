@@ -1,4 +1,4 @@
-# unit-1-homework
+# Code Refactor
 
 Review and revise the given HTML and CSS code to resolve any issues the current site is having
 
